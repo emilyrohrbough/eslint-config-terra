@@ -1,3 +1,6 @@
+_This module has been moved to terra-toolkit to consodiate Terra's various tools and configurations. Please reference https://github.com/cerner/terra-toolkit/tree/master/packages/eslint-config-terra for the latest info._
+<br />
+
 <!-- Logo -->
 <p align="center">
   <img height="128" width="128" src="https://github.com/cerner/eslint-config-terra/raw/master/terra.png">
@@ -13,7 +16,6 @@
 [![Build Status](https://badgen.net/travis/cerner/eslint-config-terra)](https://travis-ci.com/cerner/eslint-config-terra)
 [![Dependencies status](https://badgen.net/david/dep/cerner/eslint-config-terra)](https://david-dm.org/cerner/eslint-config-terra)
 [![devDependencies status](https://badgen.net/david/dev/cerner/eslint-config-terra)](https://david-dm.org/cerner/eslint-config-terra?type=dev)
-
 
 Terra's sharable ESLint configuration for their UI library and build tools.
 
